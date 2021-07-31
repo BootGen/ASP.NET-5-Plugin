@@ -1,0 +1,5 @@
+{
+  "controllerFolder": "Controllers",
+  "serviceFolder": "Services",
+  "entityFolder": "Entities"
+}
